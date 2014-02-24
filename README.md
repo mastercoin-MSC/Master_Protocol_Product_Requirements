@@ -3,6 +3,12 @@ Mastercoin_Product_Requirements
 
 Market &amp; Product Requirements Document for Decentralized Trading Protocols and Applications
 
+A note on compensation:  accepted pull requests and commits will qualify for the monthly $35,000 Smart Property Bounty from Mastercoin Foundation for so long as the bounty is active. As a general rule each contribution wille be valued at X.
+
+http://mastercointalk.org/index.php?topic=121.0
+
+
+
 1. Authors
 2. Purpose and Scope
   1. technical persepetive 
