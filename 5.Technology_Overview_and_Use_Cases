@@ -4,7 +4,27 @@ I. Overview
 
 The Master Protocol is a meta-layer using bitcoin protocol for a variety of purposes.  The prime uses are the creation and transfer of of meta-layer currencies that leverage Bitcoin's transaction security, shared ledger and public-private key address model.
 
-II. Transfers and Trade Use Cases
+A. Current Specification
+
+Currently the Master Protocol Specification has two types of token creation methods:
+
+1. Fixed number of Tokens
+
+https://github.com/mastercoin-MSC/spec#new-property-creation-with-fixed-number-of-tokens
+
+2. Variable number of Tokens
+
+https://github.com/mastercoin-MSC/spec#new-property-creation-with-fixed-number-of-tokens
+
+parameters unique to this type are:
+
+Currency identifier desired = 1 for Mastercoin (cannot be bitcoin)
+Number Properties per unit invested = 100 indivisible shares
+Deadline = January 1st, 2215 00:00:00 GMT
+Early bird bonus %/week = 10
+Shares for issuer = 1000 indivisible shares
+
+II. High Level Transfers and Trade Use Cases
 
 Regarding transfer and trade this can be accomplished by a few methods and depends on the particular use case in terms of transfer of property or rights.  The are classified using the following structure:
 
@@ -43,7 +63,12 @@ b. Bitcoin to Meta-Layer Trades
 
 In this use case the two parties agree on a price, and the meta-layer protocol is able to create a timed contract. But since one of the virtual currencies involved is bitcoin, the meta-layer protocol is not able to enforce the transfer of virtual currencies until the party possessing bitcoins transfers them to the other party within the scope of the agreement
 
-III. Smart Property Use Cases
+III. Auction Types
+
+List out auction types here
+
+
+IV. Smart Property Use Cases
 
 
 
