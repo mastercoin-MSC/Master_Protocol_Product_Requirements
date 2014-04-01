@@ -71,20 +71,26 @@ List out auction types here
 IV. Smart Property Use Cases
 
 
-
-
-
-
-
-
 a. Synthetic Assets
 
 b. Virtual Property Tokens
 
 c. Asset Backed Tokens
 
+Tokens which are backed by some sort of asset whether commodity, currency, fund or real property.
+
+May need to collect customer data.
+
+May need to build in fee collection capability into the protocol.
+
 d. Debt
+
+Needs review of regulations
 
 e. Shares
 
+Needs review of regulations
+
 f. Smart Properties
+
+Reguires physical integration and control of physical apparatus.
