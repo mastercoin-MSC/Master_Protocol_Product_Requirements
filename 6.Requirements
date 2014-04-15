@@ -9,6 +9,8 @@ iii. Technical requirements
 
 a. Protocol
 
+1. issue: how to lock in an issuance to a specific protocol version.  there are concerns about impact of new capabilities on an issuance.
+
 b. Security
 
 c. Platforms
