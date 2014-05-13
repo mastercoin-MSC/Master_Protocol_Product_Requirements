@@ -5,7 +5,7 @@ Market &amp; Product Requirements Document for Decentralized Trading Protocols a
 
 Please note that the only ACTIVE part of the document at this time is the Technology Overview and Use Cases section:
 
-https://github.com/mastercoin-MSC/Master_Protocol_Product_Requirements/blob/5.Technology_Overview_and_Use_Cases.md
+https://github.com/mastercoin-MSC/Master_Protocol_Product_Requirements/5.Technology_Overview_and_Use_Cases.md
 
 For other sections you are welcome to start a contribution.
 
